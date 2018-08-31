@@ -1,7 +1,5 @@
 # play-repo
 COSI 166B Demo
 
-#### PITO WAS HERE
-HAHAHAHAH
+I am the only one survive
 
-another try from Oliver
