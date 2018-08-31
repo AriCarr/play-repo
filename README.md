@@ -1,6 +1,7 @@
 # play-repo
 COSI 166B Demo
 
+<<<<<<< HEAD
 I got lost
 I got really lost
 I got really really lost
@@ -31,3 +32,6 @@ rains in africa
 hello
 
 boo!!!
+=======
+I am Only one survive jajajajajaja!
+>>>>>>> e9e0d4c26e8622803cb03c238e51cfedf53166cb
