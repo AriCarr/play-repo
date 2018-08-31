@@ -1,6 +1,8 @@
 # play-repo
 COSI 166B Demo
 
+The qukc brown fox jumped over the lazy dog.
+
 #### PITO WAS HERE
 HAHAHAHAH
 CR7
@@ -9,12 +11,15 @@ HAHAHAHAHhahahaha
 
 I modified this file!
 
-<<<<<<< HEAD
+
 ####Do you know the muffin man. He lives 
 hiiiiii
 hellos
-=======
+
+The rain in spain is mainly in the plane
+
 modify
 hiiiiii
 hello
->>>>>>> 9b0820f7baf3e7606d1fc0c0248aa8a0a88b7b97
+
+rains in africa
