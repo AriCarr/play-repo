@@ -1,6 +1,9 @@
 # play-repo
 COSI 166B Demo
 
+I got lost
+I got really lost
+I got really really lost
 The qukc brown fox jumped over the lazy dog.
 
 #### PITO WAS HERE
@@ -25,3 +28,6 @@ hiiiiii
 hello
 
 rains in africa
+hello
+
+boo!!!
